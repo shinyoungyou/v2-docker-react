@@ -1,0 +1,14 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+      "Name": "austynyou/v2-docker-react",
+      "Update": "true"
+    },
+    "Ports": [
+      {
+        "ContainerPort": 80,
+        "HostPort": 80
+      }
+    ]
+  }
+  
